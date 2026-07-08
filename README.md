@@ -20,7 +20,7 @@
 
 ---
 
-## 30초 요약
+## 요약
 
 **질문.** Public 리더보드 상위 모델이 처음 보는 hidden 데이터에서도 유지되는가. 그리고 sparse(TF-IDF)와 dense(SentenceTransformer) 표현 중 무엇이 더 일반화되는가.
 
