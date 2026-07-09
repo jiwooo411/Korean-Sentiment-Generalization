@@ -8,7 +8,7 @@
 
 ## Branch naming
 
-`<type>/<short-topic>` 형식. 예: `docs/readme-polish`, `feat/oof-stacking`.
+`<type>/<short-topic>` 형식. 예: `docs/readme-polish`, `feature/oof-stacking`.
 `claude/*`, `codex/*` 등 임의 브랜치명은 금지한다.
 
 ## Commit message
