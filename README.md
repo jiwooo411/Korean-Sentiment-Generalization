@@ -239,4 +239,4 @@ jupyter notebook notebooks/phase2_embedding_stacking.ipynb # Phase 2 (GPU 필수
 
 ---
 
-<sub>NSMC 한국어 영화 리뷰 감성 분류 · 코드 MIT, 원자료 미배포 · 문의: jiwooo411@naver.com</sub>
+<sub>NSMC 한국어 영화 리뷰 감성 분류 · 코드 MIT, 원자료 미배포 · 문의: lcsvvo@gmail.com</sub>
